@@ -1,4 +1,4 @@
-#Jerry Cheng Coding Journal1 Session3
+#Jerry Cheng Coding Journal 1 Session3
 
 def f(x):
     # Function to calculate x**3 + 8
