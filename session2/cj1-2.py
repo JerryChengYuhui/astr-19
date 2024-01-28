@@ -1,4 +1,4 @@
-#Jerry Cheng session2 code journal
+#Jerry Cheng session 2 code journal 1
 
 # Sum of two floating point numbers
 float_num1 = 5.5
